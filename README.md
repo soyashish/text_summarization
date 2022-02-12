@@ -2,8 +2,12 @@
 Automatic text summarization using Extractive method.
 
 Tools and Technologies:
+
+
 Anaconda 5.2
+
 Python 3.7.0
+
 BeautifulSoup 4.6.3
 lxml 4.2.5
 newspaper3k 0.2.8
