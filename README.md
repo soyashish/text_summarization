@@ -1,3 +1,5 @@
+![Screenshot (124)](https://user-images.githubusercontent.com/70192983/153713697-91fb14ad-4751-4212-83a6-256cac2e44a6.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/70192983/153713704-f00b248c-c3c4-4d09-9359-51aedf60f9f1.png)
 # text_summarization
 Automatic text summarization using Extractive method.
 
